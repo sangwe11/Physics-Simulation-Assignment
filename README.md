@@ -1,7 +1,7 @@
 # Physics-Simulation-Assignment
 3rd Year assignment utilising C++, OpenGL and Physx to create a sandbox game for the manipluation of objects and joints. Both rendered models and physic meshes can be visualised either seperately or simulatanously providing an intuative way to explore how Physx works within the sandbox. Objects can be manipulated and combined through the use of fixed, spring and pivot joints.
 
-#Dependancies
+# Dependancies
 + git
 + libsdl2-dev
 + libsdl2-image-dev
